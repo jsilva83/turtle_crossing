@@ -14,6 +14,7 @@ screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor('white')
 screen.tracer(0)
+screen.title('Turtle crosses the street1')
 # Initialize player.
 my_player = Player()
 # Initialize car manager.
